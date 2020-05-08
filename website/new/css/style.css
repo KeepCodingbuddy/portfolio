@@ -27,12 +27,12 @@ body {
 }
 
 .slides-navigation a.next {
-	right: 20px;
-	background-image: url(../img/icons/next.png) !important;
+	left: 20px;
+	background-image: url(../img/icons/next.png);
 }
 
 .slides-navigation a.prev {
-	left: 20px;
+	right: 20px;
 	background-image: url(../img/icons/prev.png);
 }
 
