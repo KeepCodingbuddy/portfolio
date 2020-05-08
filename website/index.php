@@ -2,7 +2,12 @@
 <html>
 <head>
 
-	<title>Final Project</title>
+	<title>My website</title>
+	
+	<meta charset="UTF-8">
+	<meta name="author" content="Ibrahim Thera">
+	<meta name="description" content="Portfolio website - project">
+	<meta name="keywords" content="html, php website, css web, html project,javascript site, portfolio site">
 
 	<link rel="stylesheet" type="text/css" href="new/css/superslides.css">
 
